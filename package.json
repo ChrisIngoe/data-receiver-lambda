@@ -1,0 +1,23 @@
+{
+  "name": "data-receiver-lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisIngoe/data-receiver-lambda.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisIngoe/data-receiver-lambda/issues"
+  },
+  "homepage": "https://github.com/ChrisIngoe/data-receiver-lambda#readme",
+  "dependencies": {
+    "mongodb": "^3.6.3"
+  }
+}
